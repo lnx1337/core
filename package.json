@@ -1,0 +1,24 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "description": "Core Enviroment for high-end interaction development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "author": {
+    "name": "Ae",
+    "email": "hi@angel-estrada.com",
+    "url": "http://www.angel-estrada.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "core@0.0.1",
+  "_shasum": "738b1b27bfe046b188db2b892ed5ba49a1f61ccb",
+  "_resolved": "git+ssh://git@bitbucket.org/madebyae/core.git#c188cf46f04c62dbadab221499025ddd168fdf68",
+  "_from": "core@git+ssh://git@bitbucket.org/madebyae/core.git"
+}
