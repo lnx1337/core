@@ -14,7 +14,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "handlebars": "^3.0.3"
+    "handlebars": ">=4.0.0"
   },
   "readme": "ERROR: No README data found!",
   "_id": "core@0.0.1",
